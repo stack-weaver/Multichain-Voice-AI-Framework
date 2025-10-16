@@ -155,5 +155,5 @@ You can preview the agent interface via browser. Add assets like:
 
 ## 📫 Contact
 
-Maintained by [**RustyNeuron**](https://github.com/rustyneuron01)
-Twitter: [@rustyneuron\_01](https://x.com/rustyneuron_01)
+Maintained by [**Stackweaver**](https://github.com/stack-weaver)
+T.G: [Stackweaver](@StackWeaver7)
