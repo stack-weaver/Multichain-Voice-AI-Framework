@@ -40,7 +40,7 @@ A powerful, extensible AI agent framework designed for **multichain crypto inter
 ### 🔧 Installation (Recommended)
 
 ```bash
-git clone https://github.com/rustyneuron01/Multichain-AI-Agent-Library.git
+git clone https://github.com/stack-weaver/Multichain-AI-Agent-Library.git
 cd Multichain-AI-Agent-Library
 cp .env.example .env
 pnpm install
@@ -53,7 +53,7 @@ pnpm start
 ### ⚙️ Advanced Manual Setup
 
 ```bash
-git clone https://github.com/rustyneuron01/Multichain-AI-Agent-Library.git
+git clone https://github.com/stack-weaver/Multichain-AI-Agent-Library.git
 cd Multichain-AI-Agent-Library
 cp .env.example .env  # Configure API keys, tokens, and agent settings
 pnpm install
